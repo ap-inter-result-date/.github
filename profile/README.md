@@ -42,7 +42,7 @@ source: https://bieap-gov.org/result.php
 | Expected Result date       | April 14 or April 15, 2026                                                                                        |
 | Current Result Status      | Not YET Released                                                                                                  |
 | Official Announcement      | Likely via bie.ap.gov.in                                                                                          |
-| Official websites          | bie.ap.gov.in and results.apcfss.in                                                                               |
+| Official websites          | https://bie.ap.gov.in and results.apcfss.in                                                                       |
 | Result viewing Requirments | Hall ticket num / Roll number                                                                                     |
 | Results Format             | Subject wise marks, grades and overall result                                                                     |
 | Passing Criteria           | Min 35% marks                                                                                                     |
