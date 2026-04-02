@@ -3,8 +3,7 @@
 In this update we will provide tentative dates **(ap inter result date 2026)** with official confirmation, & status of Andhra Pradesh Intermediate Board, result dates and much more, this page is created to help all students of andhra, to view their result. AP Inter result date 2026 Status currently students are writing examination. results will be out in the month of APRIL, Expected to be announced at mid of APRIL.
 
 <img width="878" height="394" alt="image" src="https://github.com/user-attachments/assets/74371ee2-f6d9-4a40-bf42-38659ff9a68c" />
-<center>source: https://www.bieap-gov.org/result.php</center>
-
+source: https://www.bieap-gov.org/result.php
 
 > The Expected date for AP Inter Result is April 15 2026 and time is around 11 AM to 2:00 PM, No Delay.!
 
