@@ -23,12 +23,13 @@ source: https://bieap-gov.org/result.php
 
 <p align="center">
 ⚡ Get instant AP Inter Result 2026 updates before everyone else!
- 
+</p>
+
+<p align="center">
   <a href="https://whatsapp.com/channel/0029Vb7ObyHFcowBPneGd22F">
     <img src="https://img.shields.io/badge/🚨%20CHECK%20RESULTS%20NOW-Join%20WhatsApp-success?style=for-the-badge&logo=whatsapp" />
   </a>
 </p>
-
 
 ---
 
