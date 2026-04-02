@@ -4,6 +4,7 @@ In this update we will provide tentative dates **(ap inter result date 2026)** w
 
 <img width="878" height="394" alt="image" src="https://github.com/user-attachments/assets/74371ee2-f6d9-4a40-bf42-38659ff9a68c" />
 source: https://www.bieap-gov.org/result.php
+---
 
 > The Expected date for AP Inter Result is April 15 2026 and time is around 11 AM to 2:00 PM, No Delay.!
 
